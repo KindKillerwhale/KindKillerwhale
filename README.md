@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KindKillerwhale
-- 👀 I’m interested in Reverse Engineering and Pwnable
+- 👀 I’m interested in Reverse Engineering, Pwnable, Blockchain Web 3.0 Security
 - 📫 How to reach me  email : hdh317@korea.ac.kr or kakaotalk id : hdh317
 
 <!---
