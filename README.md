@@ -4,7 +4,7 @@
 I am a passionate Blockchain Security Researcher with a strong focus on **Reverse Engineering**, **Pwnable**, and **Web 3.0 Security**. My expertise lies in exploring vulnerabilities and enhancing the security of blockchain technologies.
 
 ### 🛠 Languages & Tools
-- **Programming Languages**: C, C++, Python, Go, Rust, Java, JavaScript
+- **Programming Languages**: C, C++, Python, Go, Rust, Java, JavaScript, Solidity
 - **Specialization**: Blockchain Security, Reverse Engineering, Exploit Development
 
 ### 🚀 Projects & Interests
