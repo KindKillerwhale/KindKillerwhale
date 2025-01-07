@@ -12,6 +12,6 @@ I am a passionate Blockchain Security Researcher with a strong focus on **Revers
 - **Email**: hdh317@korea.ac.kr
 - **twitter**: https://x.com/kind_k11rwhale
 - **LinkedIn**: https://www.linkedin.com/in/donghyeon-hwang-314447345/
-- ** My Blog **: https://kindkillerwhale.tistory.com/
+- **Blog**: https://kindkillerwhale.tistory.com/
 
 Feel free to reach out if you're interested in collaboration or have any questions!
