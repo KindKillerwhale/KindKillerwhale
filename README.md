@@ -11,9 +11,10 @@
 I am a **Blockchain Security Researcher** with expertise in **Reverse Engineering**, **Pwnable**, and **Web 3.0 Security**.  
 My research primarily focuses on **Ethereum Core Security**, including **blockchain consensus mechanisms, execution layer vulnerabilities, and smart contract security**.
 
-🔹 **Current Research**: Enhancing Ethereum security with [**karalabe/ssz fuzzer**](https://github.com/KindKillerwhale/sszfuzzer)  
+🔹 **Current Project**: **DongHyeon Protocol Research** at the Ethereum Foundation  
+🔹 **Past Research**: Enhancing Ethereum security with [**karalabe/ssz fuzzer**](https://github.com/KindKillerwhale/sszfuzzer)  
 🔹 **Ethereum Blog**: [Allocation Q4 2024](https://blog.ethereum.org/2025/02/06/allocation-q4-24)  
-🔹 **Side Project**: Developing an **EVM Geth fuzzer** for deeper security analysis  
+🔹 **Side Project**: Developing an **EVM Geth fuzzer**, **ABI fuzzer** etc for deeper security analysis  
 🔹 **Research Interests**: **Ethereum Execution & Consensus Security, Smart Contract Security, Blockchain Vulnerability Research**  
 
 ---
@@ -62,8 +63,7 @@ My research primarily focuses on **Ethereum Core Security**, including **blockch
   - [**sszfuzzer Repository**](https://github.com/KindKillerwhale/sszfuzzer)  
   - 📰 [Ethereum Blog - Allocation Q4 2024](https://blog.ethereum.org/2025/02/06/allocation-q4-24)  
 
-🛠️ **EVM Geth Fuzzer**  
-  - Enhancing fuzzing techniques for Ethereum execution environments  
+🛠️ **EVM Geth Fuzzer**, **Differential geth based ABI fuzzer**
 
 ---
 
